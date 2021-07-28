@@ -1,2 +1,2 @@
-# hello-world
-description of hello world even more than that
+# goodbye-cruel-world
+description of the goodbye file
